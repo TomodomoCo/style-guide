@@ -2,6 +2,13 @@
 
 This repo contains code style documentation for internal and public Tomodomo projects.
 
+## Table of Contents
+
++ [CSS](/blob/master/docs/css.md)
++ [JavaScript](/blob/master/docs/javascript.md)
++ [PHP](/blob/master/docs/php.md)
++ [WordPress](/blob/master/docs/wordpress.md)
+
 ## About Tomodomo
 
 Tomodomo is a creative agency for communities. We focus on unique design and technical solutions to grow community activity and increase customer retention for online networking forums and customer service communities.
