@@ -4,10 +4,10 @@ This repo contains code style documentation for internal and public Tomodomo pro
 
 ## Table of Contents
 
-+ [CSS](/blob/master/docs/css.md)
-+ [JavaScript](/blob/master/docs/javascript.md)
-+ [PHP](/blob/master/docs/php.md)
-+ [WordPress](/blob/master/docs/wordpress.md)
++ [CSS](docs/css.md)
++ [JavaScript](docs/javascript.md)
++ [PHP](docs/php.md)
++ [WordPress](docs/wordpress.md)
 
 ## About Tomodomo
 
