@@ -4,11 +4,9 @@ For all WordPress projects, use the WordPress Core Coding Standards as a base, w
 
 ## JavaScript
 
-JavaScript can be handled a few different ways.
+For inline JavaScript and linked JavaScript that _isn't_ going through a build step, follow the [WordPress Core JavaScript Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
 
-For inline JavaScript and linked JavaScript that will not be going through a build step, follow the [WordPress Core JavaScript Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
-
-For JavaScript that will go through a build step, follow our [JavaScript standards](javascript.md).
+For JavaScript that _will_ go through a build step, follow our [JavaScript standards](javascript.md).
 
 ## Hooks & Filters
 
