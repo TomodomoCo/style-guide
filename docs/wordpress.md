@@ -15,7 +15,7 @@ When writing procedural (non-OOP) code, functions should be defined above the ho
 ```php
 /**
  * This is a phpdoc
-
+ *
  * @return void
  */
 function my_function() {
